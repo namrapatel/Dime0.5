@@ -1,0 +1,6 @@
+framework module Pods_divide {
+  umbrella header "Pods-divide-umbrella.h"
+
+  export *
+  module * { export * }
+}
